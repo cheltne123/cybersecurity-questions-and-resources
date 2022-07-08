@@ -1,1 +1,1 @@
-# cybersecurity-questions-and-resources
+# cybersecurity learning project
